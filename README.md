@@ -2,7 +2,7 @@
 A challenge to create an interactive quiz using JavaScript.
 
 ## Installation
-The project website is available on my current GitHub Pages link. To access and install project files, download the ZIP and unpack with software like WinRAR, or clone it directly to your machine. Or, visit the URL directly here: 
+The project website is available on my current GitHub Pages link. To access and install project files, download the ZIP and unpack with software like WinRAR, or clone it directly to your machine. Or, visit the URL directly here: https://thenavigator1418.github.io/Challenge-6-Coding-Quiz/.
 
 ## Usage
 <a href="https://ibb.co/rGjwq0W"><img src="https://i.ibb.co/vxFjfqt/quiz1.png" alt="quiz1" border="0"></a>
